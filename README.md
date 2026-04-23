@@ -1,4 +1,3 @@
-<img width="2560" height="1600" alt="屏幕截图 2026-04-23 183131" src="https://github.com/user-attachments/assets/5212c6b2-7896-4e30-a951-cf670c3b5ac0" />
 # Slay the Spire2-明月栞那
 
 杀戮尖塔2mod，亡灵契约师皮肤-明月栞那
@@ -20,7 +19,7 @@
 4\.多人联机中角色手部没有替换，因为AI抽卡抽不出像样的图片。
 
 5\.多人联机中篝火处，任何需要选中的操作（比如愈合），该mod的角色不能指向角色，所以如果您需要执行此类操作，可以用图示的方法。
-![Uploading 屏幕截图 2026-04-23 183131.png…]()
+<img width="800" height="500" alt="屏幕截图 2026-04-23 183131" src="https://github.com/user-attachments/assets/5212c6b2-7896-4e30-a951-cf670c3b5ac0" />
 
 6\.目前提交的已经是作者尽最大可能做的最好的版本了，而且作者也是用大佬的模板做的mod，不会写代码，所以如果有bug的话，作者不一定能解决。
 
